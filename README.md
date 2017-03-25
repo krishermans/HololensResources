@@ -125,10 +125,11 @@ Map of a campus
 Real-time and 3D rendering of Bing Maps with actual weather and traffic information
 
 [https://blogs.windows.com/buildingapps/2017/03/06/building-terminator-vision-hud-hololens/#ZDXloUkFVUliSfBx.97](https://blogs.windows.com/buildingapps/2017/03/06/building-terminator-vision-hud-hololens/#ZDXloUkFVUliSfBx.97)  
-The famous Terminator HUD as a HoloLens app, _with source code_!
+The famous Terminator HUD as a HoloLens app, _with source code_!  
 
 [http://blog.htmlfusion.com/controlling-lights-with-the-hololens-and-internet-of-thingsatch-one-of-philippes-appearances-in-june/](http://blog.htmlfusion.com/controlling-lights-with-the-hololens-and-internet-of-thingsatch-one-of-philippes-appearances-in-june/)  
-Control Philips Hue lights
-[https://medium.com/microsoft-design/designing-typography-insight-for-hololens-a55fc5fe025#.xi6zrai5j](https://medium.com/microsoft-design/designing-typography-insight-for-hololens-a55fc5fe025#.xi6zrai5j)
+Control Philips Hue lights  
+
+[https://medium.com/microsoft-design/designing-typography-insight-for-hololens-a55fc5fe025#.xi6zrai5j](https://medium.com/microsoft-design/designing-typography-insight-for-hololens-a55fc5fe025#.xi6zrai5j)  
 Designing typography insight
 
