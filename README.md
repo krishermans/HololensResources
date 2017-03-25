@@ -130,6 +130,9 @@ The famous Terminator HUD as a HoloLens app, _with source code_!
 [http://blog.htmlfusion.com/controlling-lights-with-the-hololens-and-internet-of-thingsatch-one-of-philippes-appearances-in-june/](http://blog.htmlfusion.com/controlling-lights-with-the-hololens-and-internet-of-thingsatch-one-of-philippes-appearances-in-june/)  
 Control Philips Hue lights  
 
+[http://www.htmlfusion.com/hololens-programming/](http://www.htmlfusion.com/hololens-programming/)  
+A restaurant experience
+
 [https://medium.com/microsoft-design/designing-typography-insight-for-hololens-a55fc5fe025#.xi6zrai5j](https://medium.com/microsoft-design/designing-typography-insight-for-hololens-a55fc5fe025#.xi6zrai5j)  
 Designing typography insight
 
