@@ -115,6 +115,10 @@ For the moment, there's the HoloToolkit:
 [https://github.com/Microsoft/HoloToolkit-Unity](https://github.com/Microsoft/HoloToolkit-Unity)  
 
 ## Cool demos
+
+[http://blog.wortell.nl/met-een-hololens-de-trein-in](http://blog.wortell.nl/met-een-hololens-de-trein-in)  
+Taking the train with HoloLens (in dutch)
+
 [http://uploadvr.com/building-with-hololens/](http://uploadvr.com/building-with-hololens/)  
 Use HoloLens in a building project
 
